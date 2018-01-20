@@ -22,5 +22,7 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("de.remmecke.android.myapplication", appContext.getPackageName());
+//        test
+        
     }
 }
